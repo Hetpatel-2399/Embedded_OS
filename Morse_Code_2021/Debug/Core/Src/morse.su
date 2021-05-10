@@ -1,0 +1,2 @@
+morse.c:31:6:flash_morse_code	24	static
+morse.c:49:6:flash_dot_or_dash	16	static
