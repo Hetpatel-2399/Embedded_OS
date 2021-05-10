@@ -27,3 +27,6 @@ References
 https://www.st.com/en/development-tools/stm32cubeide.html
 https://www.st.com/en/evaluation-tools/32f411ediscovery.html
 https://www.google.com/search?q=morse+code&client=firefox-b-d&tbm=isch&source=iu&ictx=1&fir=y5lmoC7kRDHG7M%252CeQjj7U3JoR13MM%252C%252Fm%252F04sb4&vet=1&usg=AI4_-kSFW8Mn_5W5o1piBo4SjarRnShY0w&sa=X&ved=2ahUKEwjsutjsx7_wAhVsmeAKHZhlCkYQ_B16BAg5EAE#imgrc=y5lmoC7kRDHG7M 
+
+License
+MIT
